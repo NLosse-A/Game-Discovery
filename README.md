@@ -85,10 +85,17 @@ Este proyecto fue desarrollado como práctica de:
 
 ## 📸 Vista previa
 
-*(Aquí puedes añadir una captura de pantalla del proyecto)*
+![Game-Discover Preview](images/preview.png)
 
 ---
 
 ## 👤 Autor
 
 Proyecto desarrollado como práctica de diseño y desarrollo frontend.
+
+---
+
+## 🔍 View
+
+Click here
+https://nlosse-a.github.io/Game-Discovery/
